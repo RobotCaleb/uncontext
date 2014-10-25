@@ -1,0 +1,12 @@
+{
+  "creator": "Caleb Anderson",
+  "dataset": "literature",
+  "name": "UFTE",
+  "slug": "ufte",
+  "description": "Uncontext Face Trade Exchange",
+  "twitter": "robotcaleb",
+  "assets": {
+  	"threejs": true,
+    "requirejs": true
+  }
+}
